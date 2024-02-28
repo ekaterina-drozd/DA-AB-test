@@ -1,6 +1,6 @@
 # DA-AB-test
 
-Стек: python, библиотеки requests, urlencode, pandas, pingouin, scipy.stats, pandahouse
+Стек: python, библиотеки requests, urlencode, pandas, pingouin, scipy.stats
 визуализация с помощью matplotlib, seaborn,
  
 **Задачи**:
